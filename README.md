@@ -16,7 +16,7 @@ Run the following:
   ```$ pip install https://github.com/joh/when-changed/archive/master.zip```
 
 ## Auto-Save
-Install package manager on Sublime. Then install the [auto-save package](https://packagecontrol.io/packages/auto-save). Turn it on by creating a new keybinding (I choose ctrl-shift-s).
+Install package manager on Sublime. Then install the [auto-save package](https://packagecontrol.io/packages/auto-save). Turn it on by creating a new keybinding (I chose ctrl-shift-s).
 
 ## Start Editing!
 1. Run the following:
